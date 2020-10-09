@@ -8,14 +8,14 @@
 		<version>2.3.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.obss</groupId>
 	<artifactId>mentorapp-serviceregistry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Service Registry for Mentor App</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>13</java.version>
 		<spring-cloud.version>Hoxton.SR8</spring-cloud.version>
 	</properties>
 
